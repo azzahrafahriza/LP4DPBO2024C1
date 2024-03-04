@@ -3,7 +3,8 @@
 ## Janji 
 Saya Azzahra Fahriza Fitriani NIM 2102296 mengerjakan soal Latihan Praktikum 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-![Uploading LP4.drawio.png…]()
+
+![LP4 drawio](https://github.com/azzahrafahriza/LP4DPBO2024C1/assets/101120742/8b88d8e7-a62c-42f9-a81d-d139324c352d)
 
 
 ## Kelas Vehicle
@@ -60,3 +61,6 @@ Garage akan memiliki daftar kendaraan yang diparkir di dalamnya. Ini menunjukkan
 
 ## Dokumen Python 
 ![image](https://github.com/azzahrafahriza/LP4DPBO2024C1/assets/101120742/bab7f6f3-e543-4236-b9a2-cdc26d606371)
+
+## Dokumen CPP
+![Cuplikan layar 2024-03-04 112126](https://github.com/azzahrafahriza/LP4DPBO2024C1/assets/101120742/93c2b962-35ac-440b-8bd6-6cd076ecb65e)
