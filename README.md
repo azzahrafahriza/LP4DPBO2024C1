@@ -3,7 +3,8 @@
 ## Janji 
 Saya Azzahra Fahriza Fitriani NIM 2102296 mengerjakan soal Latihan Praktikum 4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
-![LP4 drawio](https://github.com/azzahrafahriza/LP4DPBO2024C1/assets/101120742/e92016a4-1134-445e-a59f-fc82c363b5d0)
+![Uploading LP4.drawio.png…]()
+
 
 ## Kelas Vehicle
 Kelas dasar atau superclass. Memiliki atribut-atribut umum untuk semua kendaraan.
